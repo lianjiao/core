@@ -1,6 +1,11 @@
 #Core
 Android Core框架使用手册         作者联系QQ：<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=752904147&site=qq&menu=yes">752904147</a>
 
+Android快速开发框架，没有那么多冗余的设计，真心实意为了简化Android开发而设计的框架 <br/>
+框架地址：<a href="http://git.oschina.net/lianjiao/core" target="_blank">svn://git.oschina.net/lianjiao/core</a> <br/>
+演示demo：<a href="http:////git.oschina.net/lianjiao/TestCore" target="_blank">svn://git.oschina.net/lianjiao/TestCore</a> <br/>
+demo下载连接：http://git.oschina.net/lianjiao/TestCore/raw/master/bin/TestCore.apk <br/>
+
 1.背景
 
 Android在Android 3.0 (API level 11)开始引入Fragment，Fragment的出现后TabHost就会消失了。我们在开发Android应用的时候大多数界面现在使用Fragment，以达到解耦和高复用的目的。
